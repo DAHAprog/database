@@ -3,8 +3,6 @@
         "id" : "1",
         "login" : "ivanych",
         "password" : "ivanychpass",
-        "name" : "Ivan",
-        "surname" : "Ivanov",
         "email" : "ivanov123@ukr.com",
         "phone" : "0931234567"
     },
@@ -12,8 +10,6 @@
         "id" : "2",
         "login" : "petrovych",
         "password" : "petrovychpass",
-        "name" : "Petro",
-        "surname" : "Petrov",
         "email" : "petriv321@gmail.com",
         "phone" : "0671231231"
     },
@@ -21,8 +17,6 @@
         "id" : "3",
         "login" : "bored",
         "password" : "boredpass",
-        "name" : "Maryna",
-        "surname" : "Moryak",
         "email" : "moryachka0@gmail.com",
         "phone" : "0987654321"
     },
@@ -30,8 +24,6 @@
         "id" : "4",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -39,8 +31,6 @@
         "id" : "5",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -48,8 +38,6 @@
         "id" : "6",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -57,8 +45,6 @@
         "id" : "7",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -66,8 +52,6 @@
         "id" : "8",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -75,8 +59,6 @@
         "id" : "9",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     },
@@ -84,8 +66,6 @@
         "id" : "10",
         "login" : "",
         "password" : "",
-        "name" : "",
-        "surname" : "",
         "email" : "",
         "phone" : 0
     }
