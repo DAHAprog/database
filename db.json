@@ -1,37 +1,39 @@
-[
-    {
-        "id" : "1",
-        "login" : "ivanych",
-        "password" : "ivanychpass",
-        "email" : "ivanov123@ukr.com",
-        "phone" : "0931234567"
-    },
-    {
-        "id" : "2",
-        "login" : "petrovych",
-        "password" : "petrovychpass",
-        "email" : "petriv321@gmail.com",
-        "phone" : "0671231231"
-    },
-    {
-        "id" : "3",
-        "login" : "bored",
-        "password" : "boredpass",
-        "email" : "moryachka0@gmail.com",
-        "phone" : "0987654321"
-    },
-    {
-        "id" : "4",
-        "login" : "",
-        "password" : "",
-        "email" : "",
-        "phone" : 0
-    },
-    {
-        "id" : "5",
-        "login" : "",
-        "password" : "",
-        "email" : "",
-        "phone" : 0
-    }
-]
+{
+    "users" : [
+        {
+            "id" : "1",
+            "login" : "ivanych",
+            "password" : "ivanychpass",
+            "email" : "ivanov123@ukr.com",
+            "phone" : "0931234567"
+        },
+        {
+            "id" : "2",
+            "login" : "petrovych",
+            "password" : "petrovychpass",
+            "email" : "petriv321@gmail.com",
+            "phone" : "0671231231"
+        },
+        {
+            "id" : "3",
+            "login" : "bored",
+            "password" : "boredpass",
+            "email" : "moryachka0@gmail.com",
+            "phone" : "0987654321"
+        },
+        {
+            "id" : "4",
+            "login" : "mylogin",
+            "password" : "mypassword",
+            "email" : "myaemail@qwe.com",
+            "phone" : "0999998887"
+        },
+        {
+            "id" : "5",
+            "login" : "nelogin",
+            "password" : "nepassword",
+            "email" : "neemail@mail.com",
+            "phone" : "0667755444"
+        }
+    ]
+}
