@@ -34,6 +34,41 @@
             "password" : "nepassword",
             "email" : "neemail@mail.com",
             "phone" : "0667755444"
+        },
+        {
+            "id" : "6",
+            "login" : "helloworld",
+            "password" : "hello12345",
+            "email" : "hellolleh@mail.com",
+            "phone" : "0667759988"
+        },
+        {
+            "id" : "7",
+            "login" : "evagut",
+            "password" : "gutovski",
+            "email" : "gutovski111@mail.com",
+            "phone" : "0667755444"
+        },
+        {
+            "id" : "8",
+            "login" : "login",
+            "password" : "password",
+            "email" : "email@mail.com",
+            "phone" : "0669098444"
+        },
+        {
+            "id" : "9",
+            "login" : "privet",
+            "password" : "pokasiki",
+            "email" : "neemail@mail.com",
+            "phone" : "0667755444"
+        },
+        {
+            "id" : "10",
+            "login" : "qwerty",
+            "password" : "xoxoxoxo",
+            "email" : "xoxoxo.mail@mail.com",
+            "phone" : "0989055324"
         }
     ]
 }
